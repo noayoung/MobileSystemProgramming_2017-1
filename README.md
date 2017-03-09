@@ -1,6 +1,7 @@
 # Mobile System Programming 2017-1
 Repository for example codes used in the Mobile System Programming class
 
+
 ### Reference books
 - 안드로이드 센서 프로그래밍, 길벗, 그렉 밀레/아담 스트라우드 지음, 김현만 옮김 
 - (그림으로 쉽게 설명하는) 안드로이드 프로그래밍, 천인국, 생능출판
@@ -22,4 +23,5 @@ Repository for example codes used in the Mobile System Programming class
 
 
 ---
-Seungwoo Kang, School of Computer Science and Engineering, KOREATECH
+Seungwoo Kang
+School of Computer Science and Engineering, KOREATECH
