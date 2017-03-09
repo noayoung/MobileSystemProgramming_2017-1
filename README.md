@@ -24,4 +24,5 @@ Repository for example codes used in the Mobile System Programming class
 
 ---
 Seungwoo Kang
+
 School of Computer Science and Engineering, KOREATECH
